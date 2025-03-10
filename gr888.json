@@ -2097,7 +2097,7 @@
             "filterable": 0,
             "timeout": 60,
             "api": "csp_XBPQ",
-            "jar": "https://f004.backblazeb2.com/file/18181818/XBPQ.jar",
+            "jar": "https://github.com/cm851228/gr888/raw/refs/heads/main/XBPQ.jar",
             "ext": {
                 "主页url": "https://xiaoxintv.com",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
