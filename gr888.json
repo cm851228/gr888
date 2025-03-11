@@ -249,6 +249,7 @@
             "quickSearch": 1,
             "api": "csp_Gz360",
             "jar": "https://github.com/cm851228/gr888/raw/refs/heads/main/Melon%20seeds.jar"
+            
         },
 {
             "key": "釆集王",
@@ -430,6 +431,7 @@
             "playerType": 2,
             "changeable": 1,
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736697750414/wex.txt;md5;84a77c1e614adefebc585ad068d113d4"
+            
         },
 {
       "key": "哔哩",
@@ -444,6 +446,7 @@
       "cookie": ""
       },
       "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+      
         },
 {
             "key": "儿童云",
@@ -458,6 +461,7 @@
                 "cookie": ""
             },            
             "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            
         },
 {
             "key": "低版本地哔哩",
@@ -473,6 +477,7 @@
      
             },
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/fm2024.jar"
+            
         },               
 {
             "key": "低版本地儿童",
@@ -488,6 +493,7 @@
           
             },
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/fm2024.jar"
+            
         },
 {
             "key": "T4-独播库",
@@ -498,6 +504,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
+            
         },
 {
             "key": "sgolys",
@@ -508,6 +515,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
+            
         },
 {
             "key": "sgabys",
@@ -531,6 +539,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0
+      
     },
 {
             "key": "py_AiGuaTV",
@@ -541,6 +550,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0
+            
         },
 {
             "key": "py_UpFuHn",
@@ -551,6 +561,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0
+            
         },
 {
             "key": "py_OleVod",
@@ -561,6 +572,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0
+            
         },
 {
             "key": "py_HeiMuEr",
@@ -571,6 +583,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0
+            
         },
 {
             "key": "py_Dm84",
@@ -581,6 +594,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0
+            
         },
 {
             "key": "py_BaHaoTV",
@@ -591,6 +605,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0
+            
         },
 {
       "key": "bilimd(OK)",
@@ -605,6 +620,7 @@
         "cookie": ""
       },
       "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/ok.txt"
+      
         },
 {
             "key": "哔哩(OK)",
@@ -619,6 +635,7 @@
             "cookie": ""
             },
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/ok.txt"
+            
         },
 {
             "key": "儿童云(OK)",
@@ -633,6 +650,7 @@
                 "cookie": ""
             },
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/ok.txt"
+            
         },
 {
             "key": "瓜子(OK)",
@@ -644,6 +662,7 @@
             "filterable": 1,
             "timeout": 30,
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/ok.txt"
+            
         },
 {
       "key": "小苹果(OK)",
@@ -656,6 +675,7 @@
       "filterable": 1,
       "timeout": 30,
       "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/ok.txt"
+      
         },
 {
       "key": "文才(OK)",
@@ -668,6 +688,7 @@
       "filterable": 1,
       "timeout": 30,
       "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/ok.txt"
+      
         },
 {
       "key": "糯米(OK)",
@@ -680,6 +701,7 @@
       "filterable": 1,
       "timeout": 30,
       "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/ok.txt"
+      
         },
 {
             "key": "天天(OK)",
@@ -694,6 +716,7 @@
             },
             "timeout": 30,
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/ok.txt"
+            
         },
 {
             "key": "csp_Btt(OK)",
@@ -705,6 +728,7 @@
             "changeable": 1,
             "timeout": 30,
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/ok.txt"
+            
         },
 {
             "key": "️爱看Bot(OK)",
@@ -716,6 +740,7 @@
             "filterable": 1,
             "timeout": 30,
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/ok.txt"
+            
         },
 {
             "key": "bili(OK)",
@@ -732,6 +757,7 @@
             },
             "timeout": 30,
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/ok.txt"
+            
         },
 {
             "key": "biliych(OK)",
@@ -748,6 +774,7 @@
             },
             "timeout": 30,
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/ok.txt"
+            
         },
 {
             "key": "苹果(fan)",
@@ -759,6 +786,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/fan.txt"
+            
         },
 {
             "key": "文采(fan)",
@@ -770,6 +798,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/fan.txt"
+            
         },
 {
             "key": "糯米(fan)",
@@ -781,6 +810,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/fan.txt"
+            
         },
 {
             "key": "原创(fan)",
@@ -793,6 +823,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/fan.txt"
+            
         },
 {
             "key": "木星(fan)",
@@ -804,6 +835,7 @@
             "changeable": 1,
             "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK",
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/fan.txt"
+            
         },
 {
             "key": "Auete(fan)",
@@ -817,6 +849,7 @@
             "changeable": 1,
             "ext": "https://auete.com/",
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/fan.txt"
+            
         },
 {
             "key": "低端(fan)",
@@ -828,6 +861,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/fan.txt"
+            
         },
 {
             "key": "可可(fan)",
@@ -839,6 +873,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/fan.txt"
+            
         },
 {
             "key": "Bili(fan)",
@@ -940,6 +975,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "api": "http://github.com/cm851228/gr888/raw/refs/heads/main/py_%E5%A4%AE%E5%BA%93%E4%BA%91.py"
+            
         },
 {
             "key": "t4直播转点播",
@@ -949,6 +985,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+            
         },
 {
       "key": "界影视",
@@ -970,6 +1007,7 @@
             "quickSearch" : 1,
             "filterable" : 1,
             "timeout": 60
+            
      },
 {
       "key": "py_hitv",
@@ -981,6 +1019,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60
+      
     },
 {
       "key": "py_光速",
@@ -992,6 +1031,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60
+      
     },
 {
       "key": "py_酷云",
@@ -1003,6 +1043,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60
+      
     },
 {
             "key" : "py_边缘",
@@ -1013,6 +1054,7 @@
             "quickSearch" : 1,
             "filterable" : 1,
             "timeout": 60
+            
      },
 {
       "key": "py_mp",
@@ -1024,6 +1066,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60
+      
     },
 {
       "key": "py_剧多短剧",
@@ -1035,6 +1078,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60
+      
     },
 {
       "key": "py_腾讯",
@@ -1046,6 +1090,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60
+      
     },
 {
       "key": "py_爱奇异",
@@ -1057,6 +1102,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60
+      
     },
 {
       "key": "py_芒果",
@@ -1068,6 +1114,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60
+      
     },
 {
             "key": "魔都云",
@@ -2204,6 +2251,7 @@
             "filterable": 1,
             "timeout": 60,
             "jar": "https://github.com/cm851228/gr888/raw/refs/heads/main/pgold.jar"
+            
     },
 {
             "key": "快看云",
@@ -2215,6 +2263,7 @@
             "changeable": 0,
             "filterable": 1,
             "jar": "https://github.com/cm851228/gr888/raw/refs/heads/main/pg.jar"
+            
     },
 {
             "key": "综合云",
@@ -2283,6 +2332,7 @@
        
             },
             "jar": "https://github.com/cm851228/gr888/raw/refs/heads/main/pg.jar"
+            
     },
 {
             "key": "Anime1",
@@ -2433,6 +2483,7 @@
       "changeable": 0,
       "timeout": 60,
       "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+      
         }, 
 {
             "key": "csp_bendi",
@@ -2443,7 +2494,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/usb.jar"
+            "jar": "http://github.com/cm851228/gr888/raw/refs/heads/main/fm2024.jar"
+     
         }
     ],
     "doh": [
