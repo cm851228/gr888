@@ -56,36 +56,9 @@
             "playerType": 2
         },
 {
-      "name": "繁华直播",
-      "type": 0,
-      "url": "http://fanhua.dieryingyuan.top:288/线路/yxds.txt",
-      "timeout": 30,
-      "playerType": 1
-    },
-{
       "name": "焦点直播",
       "type": 0,
       "url": "http://xg.52sw.top/jd/?ip=108.181.32.169",
-      "ua": "okhttp/3.15",
-      "timeout": 30,
-      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-    },
-{
-      "name": "火星直播",
-      "type": 0,
-      "url": "http://xg.52sw.top/play/hxds/",
-      "ua": "okhttp/3.15",
-      "timeout": 30,
-      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-,
-      "header": {
-        "Referer": "https://www.kds.tw/"
-      }
-    },
-{
-      "name": "MySp直播",
-      "type": 0,
-      "url": "http://xg.52sw.top/play/mytvsuper/index-mytvsuper.php",
       "ua": "okhttp/3.15",
       "timeout": 30,
       "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
@@ -118,6 +91,14 @@
             "type": 0,
             "url": "http://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
             "ua": "Lavf/58.12.100",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "Migu",
+            "type": 0,
+            "url": "http://php.540734621.xyz/migu.txt",
+            "ua": "okhttp",
             "timeout": 30,
             "playerType": 1
         },
@@ -230,7 +211,7 @@
 
 "sites": [
 {
-            "key": "1080zyku",
+            "key": "优质云",
             "name": "优质云",
             "type": 1,
             "api": "http://api.1080zyku.com/inc/apijson.php?ac=list",
@@ -246,25 +227,32 @@
                 "日本剧",
                 "欧美剧",
                 "海外剧",
+                "动画片",
                 "动作片",
                 "喜剧片",
                 "爱情片",
                 "科幻片",
                 "恐怖片",
                 "剧情片",
-                "战争片",
-                "动画片",
+                "战争片",                
                 "纪录片",
                 "港台综艺",
                 "大陆综艺",
                 "欧美综艺",
-                "日韩综艺",
-                "港台动漫",
+                "日韩综艺",             
                 "国产动漫",
                 "日韩动漫",
-                "欧美动漫"
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "短剧大全",
+                "音乐",
+                "搞笑",             
+                "影视",
+                "体育"
+                
             ]
-        },
+        },        
 {
             "key": "釆集王",
             "name": "釆集云",
@@ -1790,6 +1778,39 @@
             ]
         },
 {
+            "key": "天涯云",
+            "name": "天涯云",
+            "type": 1,
+            "api": "http://tyyszyapi.com/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [      
+                "港台剧",
+                "国产剧",
+                "日韩剧",
+                "欧美剧",
+                "其他剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "港台综艺",
+                "大陆综艺",
+                "欧美综艺",
+                "日韩综艺",
+                "港台动漫",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫"
+                
+            ]
+        },
+{
             "key": "量子",
             "name": "量子云",
             "type": 1,
@@ -2282,6 +2303,61 @@
                 "演唱会",
                 "邵氏电影"
                 
+            ]
+        },
+{
+            "key": "虎牙云",
+            "name": "虎牙云",
+            "type": 1,
+            "api": "http://www.huyaapi.com/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [ 
+                "香港剧",
+                "马泰剧",
+                "内地剧",
+                "台湾剧",
+                "韩剧",
+                "日剧",
+                "欧美剧",
+                "动作片",
+                "爱情片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "综艺",
+                "动漫",
+                "动画片",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫"
+                
+            ]
+        },
+{
+            "key": "四圈云",
+            "name": "四圈云",
+            "type": 1,
+            "api": "http://pg.fenwe078.cf/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [      
+                "港台剧",
+                "国产剧",       
+                "日韩剧",
+                "欧美剧",
+                "海外剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "动漫电影",
+                "海外动漫",
+                "动画片"
             ]
         },
 {
