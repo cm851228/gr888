@@ -574,6 +574,12 @@
 
 
 科普教学,#genre#
+1926,http://files.catbox.moe/ee46cv.mp4
+1927,http://files.catbox.moe/t1m14l.mp4
+1928,http://files.catbox.moe/a316cf.mp4
+1929,http://files.catbox.moe/c6sb2r.mp4
+1930,http://files.catbox.moe/7ytgel.mp4
+1931,http://files.catbox.moe/r6css1.mp4
 1932,http://files.catbox.moe/9pybg7.mp4
 1933,http://files.catbox.moe/sdb7qm.mp4
 1934,http://files.catbox.moe/zhfd5k.mp4
