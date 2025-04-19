@@ -876,6 +876,18 @@
             
         },
 {
+      "key": "py_哔哩B站",
+      "name": "哔哩B站(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
       "key": "py_live_livelive零度影视",
       "name": "零度影视(py)",
       "type": 3,
